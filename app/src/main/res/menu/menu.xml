@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+ <item android:id="@+id/group"
+     android:icon="@drawable/baseline_groups_24"
+     android:title="New group"/>
+
+    <item android:id="@+id/new_Broadcase"
+     android:icon="@drawable/baseline_broadcast_on_home_25"
+     android:title="New broadcase"/>
+
+    <item android:id="@+id/link"
+     android:icon="@drawable/baseline_devices_26"
+     android:title="Linked device"/>
+
+    <item android:id="@+id/shared"
+        android:icon="@drawable/baseline_message_27"
+        android:title="Starred messaged"/>
+
+    <item android:id="@+id/setting"
+     android:icon="@drawable/baseline_settings_28"
+     android:title="Setting"/>
+
+</menu>
